@@ -1,0 +1,196 @@
+<div align="center">
+
+<!-- Animated Space Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a12,50:cc0000,100:0a0a12&height=180&section=header&text=ArsenalRX&fontSize=72&fontColor=ff0000&fontAlignY=32&desc=Developer%20%E2%80%A2%20Builder%20%E2%80%A2%20Kernel-Level%20Engineering&descSize=16&descColor=888888&descAlignY=52&animation=fadeIn" width="100%" />
+
+<!-- Typing SVG -->
+<a href="https://github.com/ArsenalRX">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&repeat=true&width=450&height=45&lines=%3E+whoami+%E2%86%92+Evan;%3E+status+%E2%86%92+Building+something+cool..." alt="Typing SVG" />
+</a>
+
+<br/>
+
+<!-- Divider -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a12,50:cc0000,100:0a0a12&height=1" width="100%" />
+
+<br/>
+
+</div>
+
+### `// active projects`
+
+```
+┌──[arsenalrx@github]─[~/projects]
+└──╼ $ status --all
+
+  PROJECT        PROGRESS                      STATUS
+  ─────────────────────────────────────────────────────────
+  Nexus          ████░░░░░░░░░░░░░░░░  20%     [Early Development]
+  Lightkeeper    ██████████████████░░  90%     [Early Access]
+  Imperium       ████░░░░░░░░░░░░░░░░  20%     [Early Development]
+  The Codex      ██████████████████░░  90%     [Early Access]
+  Amplifi        ░░░░░░░░░░░░░░░░░░░░  ???     [Classified]
+```
+
+<div align="center">
+
+<!-- Divider -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a12,50:cc0000,100:0a0a12&height=1" width="100%" />
+
+<br/>
+
+### `01. Projects`
+
+<br/>
+
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">Nexus</h3>
+<p align="center">
+<img src="https://img.shields.io/badge/Early_Development-cc0000?style=flat-square" />
+<img src="https://img.shields.io/badge/Private-0a0a12?style=flat-square&logo=lock&logoColor=cc0000" />
+<br/>
+<img src="https://img.shields.io/badge/Python-0a0a12?style=flat-square&logo=python&logoColor=cc0000" />
+<img src="https://img.shields.io/badge/ML-0a0a12?style=flat-square&logo=pytorch&logoColor=cc0000" />
+</p>
+<p align="center">A local abliterated 9B AI model with machine learning features built specifically for anti-cheat development and detection.</p>
+</td>
+<td width="50%">
+<h3 align="center"><a href="https://github.com/ArsenalRX/lightkeeper-releases">Lightkeeper</a></h3>
+<p align="center">
+<img src="https://img.shields.io/badge/Early_Access-888888?style=flat-square" />
+<br/>
+<img src="https://img.shields.io/badge/Python-0a0a12?style=flat-square&logo=python&logoColor=cc0000" />
+<img src="https://img.shields.io/badge/Electron-0a0a12?style=flat-square&logo=electron&logoColor=cc0000" />
+</p>
+<p align="center">A USCG ATON workplan tool — downloads Light List data, provides interactive maps across all 9 districts, and generates optimized multi-day trip workplans with route planning.</p>
+</td>
+</tr>
+<tr>
+<td width="50%">
+<h3 align="center">Imperium</h3>
+<p align="center">
+<img src="https://img.shields.io/badge/Early_Development-cc0000?style=flat-square" />
+<img src="https://img.shields.io/badge/Private-0a0a12?style=flat-square&logo=lock&logoColor=cc0000" />
+<br/>
+<img src="https://img.shields.io/badge/C%23-0a0a12?style=flat-square&logo=csharp&logoColor=cc0000" />
+<img src="https://img.shields.io/badge/C++-0a0a12?style=flat-square&logo=cplusplus&logoColor=cc0000" />
+<img src="https://img.shields.io/badge/WPF-0a0a12?style=flat-square&logo=dotnet&logoColor=cc0000" />
+</p>
+<p align="center">A Windows hardware identity spoofer with a modern WPF interface and kernel-mode driver. Randomizes hardware fingerprints to make your PC appear as a different machine.</p>
+</td>
+<td width="50%">
+<h3 align="center"><a href="https://github.com/nisakson2000/dnd-tracker">The Codex</a></h3>
+<p align="center">
+<img src="https://img.shields.io/badge/Early_Access-888888?style=flat-square" />
+<br/>
+<img src="https://img.shields.io/badge/React-0a0a12?style=flat-square&logo=react&logoColor=cc0000" />
+<img src="https://img.shields.io/badge/Tauri_2-0a0a12?style=flat-square&logo=tauri&logoColor=cc0000" />
+<img src="https://img.shields.io/badge/Rust-0a0a12?style=flat-square&logo=rust&logoColor=cc0000" />
+<br/>
+<img src="https://img.shields.io/badge/Co--Project_with-nisakson2000-888888?style=flat-square&logo=github&logoColor=ffffff" />
+</p>
+<p align="center">A native D&D 5e character tracker with full ruleset support, 2,000+ article encyclopedia, real-time multiplayer sessions, and Player/DM modes. No account, no internet, no subscriptions.</p>
+</td>
+</tr>
+<tr>
+<td colspan="2" width="100%">
+<h3 align="center">Amplifi</h3>
+<p align="center">
+<img src="https://img.shields.io/badge/Classified-555555?style=flat-square" />
+<img src="https://img.shields.io/badge/%3F%3F%3F-0a0a12?style=flat-square&logo=lock&logoColor=cc0000" />
+</p>
+<p align="center"><i>Something is being built. Details are classified.</i></p>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- Divider -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a12,50:cc0000,100:0a0a12&height=1" width="100%" />
+
+<br/>
+
+### `02. Completed`
+
+<br/>
+
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">Ghosted</h3>
+<p align="center">
+<img src="https://img.shields.io/badge/Out_of_Date-888888?style=flat-square" />
+<br/>
+<img src="https://img.shields.io/badge/Rust-0a0a12?style=flat-square&logo=rust&logoColor=cc0000" />
+<img src="https://img.shields.io/badge/JavaScript-0a0a12?style=flat-square&logo=javascript&logoColor=cc0000" />
+<img src="https://img.shields.io/badge/CSS-0a0a12?style=flat-square&logo=css3&logoColor=cc0000" />
+<img src="https://img.shields.io/badge/HTML-0a0a12?style=flat-square&logo=html5&logoColor=cc0000" />
+</p>
+<p align="center">An app to track your personal data across 100s of data broker sites and remove it. Take back control of your digital footprint.</p>
+</td>
+<td width="50%">
+<h3 align="center"><a href="https://github.com/ArsenalRX/voxmorph">VoxMorph</a></h3>
+<p align="center">
+<img src="https://img.shields.io/badge/Completed-00cc00?style=flat-square" />
+<br/>
+<img src="https://img.shields.io/badge/Python-0a0a12?style=flat-square&logo=python&logoColor=cc0000" />
+<img src="https://img.shields.io/badge/Jupyter-0a0a12?style=flat-square&logo=jupyter&logoColor=cc0000" />
+</p>
+<p align="center">Real-time AI voice translator that converts your speech into another language using a synthetic voice. Speak English and your teammates hear fluent German, Japanese, or any of 15+ supported languages — all in real-time.</p>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- Divider -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a12,50:cc0000,100:0a0a12&height=1" width="100%" />
+
+<br/>
+
+### `03. Tech Stack`
+
+<img src="https://skillicons.dev/icons?i=python,js,ts,cs,cpp,rust&theme=dark" />
+<br/>
+<img src="https://skillicons.dev/icons?i=dotnet,nodejs,react,docker,git,linux&theme=dark" />
+
+<br/><br/>
+
+<!-- Divider -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a12,50:cc0000,100:0a0a12&height=1" width="100%" />
+
+<br/>
+
+### `04. Stats`
+
+<a href="https://github.com/ArsenalRX">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArsenalRX&theme=dark&background=0d1117&ring=cc0000&fire=ff4444&currStreakLabel=cc0000&sideLabels=8888a8&currStreakNum=ffffff&sideNums=8888a8&dates=555555&border=1a1a1a&stroke=cc000030" width="60%" />
+</a>
+
+<br/><br/>
+
+<!-- Contribution Heatmap -->
+<img src="https://ghchart.rshah.org/cc0000/ArsenalRX" alt="Contribution Heatmap" width="90%" />
+
+<br/><br/>
+
+<!-- Divider -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a12,50:cc0000,100:0a0a12&height=1" width="100%" />
+
+<br/>
+
+<sub>Built by Evan · <a href="https://arsenalrx.github.io">arsenalrx.github.io</a></sub>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=ArsenalRX&style=flat-square&color=cc0000&label=Views" />
+
+<br/><br/>
+
+</div>
+
+<!-- Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a12,50:cc0000,100:0a0a12&height=120&section=footer" width="100%" />

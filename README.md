@@ -29,7 +29,7 @@
   Lightkeeper    v0.8.9.4    ██████████████████░░  90%     [Early Access]
   Imperium       v0.0.1      ████░░░░░░░░░░░░░░░░  20%     [Early Development]
   The Codex      v0.8.6      ██████████████████░░  90%     [Early Access]
-  Amplifi        v0.0.2      ░░░░░░░░░░░░░░░░░░░░  ???     [Classified]
+  Amplifi        v0.0.2      ████░░░░░░░░░░░░░░░░  20%     [Early Development]
   Ghosted        v0.5.0      ██████████████████████ 100%    [Completed]
   VoxMorph       v1.0.0      ██████████████████████ 100%    [Completed]
 ```
@@ -96,10 +96,12 @@
 <td colspan="2" width="100%">
 <h3 align="center">Amplifi <sub>v0.0.2</sub></h3>
 <p align="center">
-<img src="https://img.shields.io/badge/Classified-555555?style=flat-square" />
-<img src="https://img.shields.io/badge/%3F%3F%3F-0a0a12?style=flat-square&logo=lock&logoColor=cc0000" />
+<img src="https://img.shields.io/badge/Early_Development-cc0000?style=flat-square" />
+<img src="https://img.shields.io/badge/Private-0a0a12?style=flat-square&logo=lock&logoColor=cc0000" />
+<br/>
+<img src="https://img.shields.io/badge/JavaScript-0a0a12?style=flat-square&logo=javascript&logoColor=cc0000" />
+<img src="https://img.shields.io/badge/Electron-0a0a12?style=flat-square&logo=electron&logoColor=cc0000" />
 </p>
-<p align="center"><i>Something is being built. Details are classified.</i></p>
 </td>
 </tr>
 </table>

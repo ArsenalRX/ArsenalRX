@@ -153,34 +153,7 @@
 
 <br/>
 
-### `03. My Sites`
-
-<br/>
-
-<table>
-<tr>
-<td width="100%">
-<h3 align="center"><a href="https://arsenalrx.github.io/Prept.github.io/">Prept</a> <sub>v0.0.1</sub></h3>
-<p align="center">
-<img src="https://img.shields.io/badge/Early_Development-cc0000?style=flat-square" />
-<br/>
-<img src="https://img.shields.io/badge/React-0a0a12?style=flat-square&logo=react&logoColor=cc0000" />
-<img src="https://img.shields.io/badge/TypeScript-0a0a12?style=flat-square&logo=typescript&logoColor=cc0000" />
-<img src="https://img.shields.io/badge/Tailwind-0a0a12?style=flat-square&logo=tailwindcss&logoColor=cc0000" />
-</p>
-<p align="center">A meal prep and recipe manager — browse, create, and organize recipes with auto-generated shopping lists. No account needed, all data stored locally.</p>
-</td>
-</tr>
-</table>
-
-<br/>
-
-<!-- Divider -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a12,50:cc0000,100:0a0a12&height=1" width="100%" />
-
-<br/>
-
-### `04. Tech Stack`
+### `03. Tech Stack`
 
 <img src="https://skillicons.dev/icons?i=python,js,ts,cs,cpp,rust&theme=dark" />
 <br/>
@@ -193,7 +166,7 @@
 
 <br/>
 
-### `05. Stats`
+### `04. Stats`
 
 <a href="https://github.com/ArsenalRX">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArsenalRX&theme=dark&background=0d1117&ring=cc0000&fire=ff4444&currStreakLabel=cc0000&sideLabels=8888a8&currStreakNum=ffffff&sideNums=8888a8&dates=555555&border=1a1a1a&stroke=cc000030" width="60%" />

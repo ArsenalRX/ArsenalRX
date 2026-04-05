@@ -23,13 +23,15 @@
 ┌──[arsenalrx@github]─[~/projects]
 └──╼ $ status --all
 
-  PROJECT        PROGRESS                      STATUS
-  ─────────────────────────────────────────────────────────
-  Nexus          ████░░░░░░░░░░░░░░░░  20%     [Early Development]
-  Lightkeeper    ██████████████████░░  90%     [Early Access]
-  Imperium       ████░░░░░░░░░░░░░░░░  20%     [Early Development]
-  The Codex      ██████████████████░░  90%     [Early Access]
-  Amplifi        ░░░░░░░░░░░░░░░░░░░░  ???     [Classified]
+  PROJECT        VERSION     PROGRESS                      STATUS
+  ───────────────────────────────────────────────────────────────────
+  Nexus          v0.0.5β     ████░░░░░░░░░░░░░░░░  20%     [Early Development]
+  Lightkeeper    v0.8.9.4    ██████████████████░░  90%     [Early Access]
+  Imperium       v0.0.1      ████░░░░░░░░░░░░░░░░  20%     [Early Development]
+  The Codex      v0.8.6      ██████████████████░░  90%     [Early Access]
+  Amplifi        v0.0.2      ░░░░░░░░░░░░░░░░░░░░  ???     [Classified]
+  Ghosted        v0.5.0      ██████████████████████ 100%    [Completed]
+  VoxMorph       v1.0.0      ██████████████████████ 100%    [Completed]
 ```
 
 <div align="center">
@@ -39,14 +41,14 @@
 
 <br/>
 
-### `01. Projects`
+### `01. In Progress`
 
 <br/>
 
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Nexus</h3>
+<h3 align="center">Nexus <sub>v0.0.5 BETA</sub></h3>
 <p align="center">
 <img src="https://img.shields.io/badge/Early_Development-cc0000?style=flat-square" />
 <img src="https://img.shields.io/badge/Private-0a0a12?style=flat-square&logo=lock&logoColor=cc0000" />
@@ -57,7 +59,7 @@
 <p align="center">A local abliterated 9B AI model with machine learning features built specifically for anti-cheat development and detection.</p>
 </td>
 <td width="50%">
-<h3 align="center"><a href="https://github.com/ArsenalRX/lightkeeper-releases">Lightkeeper</a></h3>
+<h3 align="center"><a href="https://github.com/ArsenalRX/lightkeeper-releases">Lightkeeper</a> <sub>v0.8.9.4</sub></h3>
 <p align="center">
 <img src="https://img.shields.io/badge/Early_Access-888888?style=flat-square" />
 <br/>
@@ -69,7 +71,7 @@
 </tr>
 <tr>
 <td width="50%">
-<h3 align="center">Imperium</h3>
+<h3 align="center">Imperium <sub>v0.0.1</sub></h3>
 <p align="center">
 <img src="https://img.shields.io/badge/Early_Development-cc0000?style=flat-square" />
 <img src="https://img.shields.io/badge/Private-0a0a12?style=flat-square&logo=lock&logoColor=cc0000" />
@@ -81,7 +83,7 @@
 <p align="center">A Windows hardware identity spoofer with a modern WPF interface and kernel-mode driver. Randomizes hardware fingerprints to make your PC appear as a different machine.</p>
 </td>
 <td width="50%">
-<h3 align="center"><a href="https://github.com/nisakson2000/dnd-tracker">The Codex</a></h3>
+<h3 align="center"><a href="https://github.com/nisakson2000/dnd-tracker">The Codex</a> <sub>v0.8.6</sub></h3>
 <p align="center">
 <img src="https://img.shields.io/badge/Early_Access-888888?style=flat-square" />
 <br/>
@@ -96,7 +98,7 @@
 </tr>
 <tr>
 <td colspan="2" width="100%">
-<h3 align="center">Amplifi</h3>
+<h3 align="center">Amplifi <sub>v0.0.2</sub></h3>
 <p align="center">
 <img src="https://img.shields.io/badge/Classified-555555?style=flat-square" />
 <img src="https://img.shields.io/badge/%3F%3F%3F-0a0a12?style=flat-square&logo=lock&logoColor=cc0000" />
@@ -120,7 +122,7 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Ghosted</h3>
+<h3 align="center"><a href="https://github.com/ArsenalRX/Ghosted">Ghosted</a> <sub>v0.5.0</sub></h3>
 <p align="center">
 <img src="https://img.shields.io/badge/Out_of_Date-888888?style=flat-square" />
 <br/>
@@ -132,7 +134,7 @@
 <p align="center">An app to track your personal data across 100s of data broker sites and remove it. Take back control of your digital footprint.</p>
 </td>
 <td width="50%">
-<h3 align="center"><a href="https://github.com/ArsenalRX/voxmorph">VoxMorph</a></h3>
+<h3 align="center"><a href="https://github.com/ArsenalRX/voxmorph">VoxMorph</a> <sub>v1.0.0</sub></h3>
 <p align="center">
 <img src="https://img.shields.io/badge/Completed-00cc00?style=flat-square" />
 <br/>
@@ -151,7 +153,45 @@
 
 <br/>
 
-### `03. Tech Stack`
+### `03. My Sites`
+
+<br/>
+
+<table>
+<tr>
+<td width="50%">
+<h3 align="center"><a href="https://arsenalrx.github.io">arsenalrx.github.io</a></h3>
+<p align="center">
+<img src="https://img.shields.io/badge/Live-00cc00?style=flat-square" />
+<br/>
+<img src="https://img.shields.io/badge/JavaScript-0a0a12?style=flat-square&logo=javascript&logoColor=cc0000" />
+<img src="https://img.shields.io/badge/CSS-0a0a12?style=flat-square&logo=css3&logoColor=cc0000" />
+<img src="https://img.shields.io/badge/HTML-0a0a12?style=flat-square&logo=html5&logoColor=cc0000" />
+</p>
+<p align="center">Personal portfolio — interactive starfield, terminal emulator, project showcase, and contact form.</p>
+</td>
+<td width="50%">
+<h3 align="center"><a href="https://arsenalrx.github.io/Prept.github.io/">Prept</a> <sub>v0.0.1</sub></h3>
+<p align="center">
+<img src="https://img.shields.io/badge/Early_Development-cc0000?style=flat-square" />
+<br/>
+<img src="https://img.shields.io/badge/React-0a0a12?style=flat-square&logo=react&logoColor=cc0000" />
+<img src="https://img.shields.io/badge/TypeScript-0a0a12?style=flat-square&logo=typescript&logoColor=cc0000" />
+<img src="https://img.shields.io/badge/Tailwind-0a0a12?style=flat-square&logo=tailwindcss&logoColor=cc0000" />
+</p>
+<p align="center">A meal prep and recipe manager — browse, create, and organize recipes with auto-generated shopping lists. No account needed, all data stored locally.</p>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- Divider -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0a0a12,50:cc0000,100:0a0a12&height=1" width="100%" />
+
+<br/>
+
+### `04. Tech Stack`
 
 <img src="https://skillicons.dev/icons?i=python,js,ts,cs,cpp,rust&theme=dark" />
 <br/>
@@ -164,7 +204,7 @@
 
 <br/>
 
-### `04. Stats`
+### `05. Stats`
 
 <a href="https://github.com/ArsenalRX">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ArsenalRX&theme=dark&background=0d1117&ring=cc0000&fire=ff4444&currStreakLabel=cc0000&sideLabels=8888a8&currStreakNum=ffffff&sideNums=8888a8&dates=555555&border=1a1a1a&stroke=cc000030" width="60%" />

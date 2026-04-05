@@ -159,18 +159,7 @@
 
 <table>
 <tr>
-<td width="50%">
-<h3 align="center"><a href="https://arsenalrx.github.io">arsenalrx.github.io</a></h3>
-<p align="center">
-<img src="https://img.shields.io/badge/Live-00cc00?style=flat-square" />
-<br/>
-<img src="https://img.shields.io/badge/JavaScript-0a0a12?style=flat-square&logo=javascript&logoColor=cc0000" />
-<img src="https://img.shields.io/badge/CSS-0a0a12?style=flat-square&logo=css3&logoColor=cc0000" />
-<img src="https://img.shields.io/badge/HTML-0a0a12?style=flat-square&logo=html5&logoColor=cc0000" />
-</p>
-<p align="center">Personal portfolio — interactive starfield, terminal emulator, project showcase, and contact form.</p>
-</td>
-<td width="50%">
+<td width="100%">
 <h3 align="center"><a href="https://arsenalrx.github.io/Prept.github.io/">Prept</a> <sub>v0.0.1</sub></h3>
 <p align="center">
 <img src="https://img.shields.io/badge/Early_Development-cc0000?style=flat-square" />

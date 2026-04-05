@@ -56,7 +56,6 @@
 <img src="https://img.shields.io/badge/Python-0a0a12?style=flat-square&logo=python&logoColor=cc0000" />
 <img src="https://img.shields.io/badge/ML-0a0a12?style=flat-square&logo=pytorch&logoColor=cc0000" />
 </p>
-<p align="center">A local abliterated 9B AI model with machine learning features built specifically for anti-cheat development and detection.</p>
 </td>
 <td width="50%">
 <h3 align="center"><a href="https://github.com/ArsenalRX/lightkeeper-releases">Lightkeeper</a> <sub>v0.8.9.4</sub></h3>
@@ -66,7 +65,6 @@
 <img src="https://img.shields.io/badge/Python-0a0a12?style=flat-square&logo=python&logoColor=cc0000" />
 <img src="https://img.shields.io/badge/Electron-0a0a12?style=flat-square&logo=electron&logoColor=cc0000" />
 </p>
-<p align="center">A USCG ATON workplan tool — downloads Light List data, provides interactive maps across all 9 districts, and generates optimized multi-day trip workplans with route planning.</p>
 </td>
 </tr>
 <tr>
@@ -80,7 +78,6 @@
 <img src="https://img.shields.io/badge/C++-0a0a12?style=flat-square&logo=cplusplus&logoColor=cc0000" />
 <img src="https://img.shields.io/badge/WPF-0a0a12?style=flat-square&logo=dotnet&logoColor=cc0000" />
 </p>
-<p align="center">A Windows hardware identity spoofer with a modern WPF interface and kernel-mode driver. Randomizes hardware fingerprints to make your PC appear as a different machine.</p>
 </td>
 <td width="50%">
 <h3 align="center"><a href="https://github.com/nisakson2000/dnd-tracker">The Codex</a> <sub>v0.8.6</sub></h3>
@@ -93,7 +90,6 @@
 <br/>
 <img src="https://img.shields.io/badge/Co--Project_with-nisakson2000-888888?style=flat-square&logo=github&logoColor=ffffff" />
 </p>
-<p align="center">A native D&D 5e character tracker with full ruleset support, 2,000+ article encyclopedia, real-time multiplayer sessions, and Player/DM modes. No account, no internet, no subscriptions.</p>
 </td>
 </tr>
 <tr>
@@ -131,7 +127,6 @@
 <img src="https://img.shields.io/badge/CSS-0a0a12?style=flat-square&logo=css3&logoColor=cc0000" />
 <img src="https://img.shields.io/badge/HTML-0a0a12?style=flat-square&logo=html5&logoColor=cc0000" />
 </p>
-<p align="center">An app to track your personal data across 100s of data broker sites and remove it. Take back control of your digital footprint.</p>
 </td>
 <td width="50%">
 <h3 align="center"><a href="https://github.com/ArsenalRX/voxmorph">VoxMorph</a> <sub>v1.0.0</sub></h3>
@@ -141,7 +136,6 @@
 <img src="https://img.shields.io/badge/Python-0a0a12?style=flat-square&logo=python&logoColor=cc0000" />
 <img src="https://img.shields.io/badge/Jupyter-0a0a12?style=flat-square&logo=jupyter&logoColor=cc0000" />
 </p>
-<p align="center">Real-time AI voice translator that converts your speech into another language using a synthetic voice. Speak English and your teammates hear fluent German, Japanese, or any of 15+ supported languages — all in real-time.</p>
 </td>
 </tr>
 </table>

@@ -25,7 +25,7 @@
 
   PROJECT        VERSION     PROGRESS                      STATUS
   ───────────────────────────────────────────────────────────────────
-  Nexus          v0.0.5β     ████░░░░░░░░░░░░░░░░  20%     [Early Development]
+  Nexus          v0.0.5      ████░░░░░░░░░░░░░░░░  20%     [Early Development]
   Lightkeeper    v0.8.9.5    █████████████░░░░░░░  75%     [Early Access]
   Imperium       v0.0.1      ████░░░░░░░░░░░░░░░░  20%     [Early Development]
   The Codex      v0.8.6      ██████████████████░░  90%     [Early Access]

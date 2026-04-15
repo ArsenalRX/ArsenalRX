@@ -5,7 +5,7 @@
 
 <!-- Typing SVG -->
 <a href="https://github.com/ArsenalRX">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&repeat=true&width=450&height=45&lines=%3E+whoami+%E2%86%92+Evan;%3E+status+%E2%86%92+Building+something+cool..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&repeat=true&width=450&height=45&lines=%3E+whoami+%E2%86%92+E;%3E+status+%E2%86%92+Building+something+cool..." alt="Typing SVG" />
 </a>
 
 <br/>
@@ -180,7 +180,7 @@
 
 <br/>
 
-<sub>Built by Evan · <a href="https://arsenalrx.github.io">arsenalrx.github.io</a></sub>
+<sub>Built by E · <a href="https://arsenalrx.github.io">arsenalrx.github.io</a></sub>
 
 <br/>
 
